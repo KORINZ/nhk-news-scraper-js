@@ -1,6 +1,6 @@
 # NHK News Scraper JavaScript
 
-This repository contains a set of JavaScript functions that can be used to scrape NHK News Easy articles and extract useful information such as vocabulary, pronunciations, titles, dates, and content.
+This repository contains a set of JavaScript functions that can be used to scrape [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/) articles and extract useful information such as vocabulary, pronunciations, titles, dates, and content.
 
 ## Table of Contents
 
