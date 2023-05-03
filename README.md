@@ -1,4 +1,4 @@
-# NHK News Scraper
+# NHK News Scraper JavaScript
 
 This repository contains a set of JavaScript functions that can be used to scrape NHK News Easy articles and extract useful information such as vocabulary, pronunciations, titles, dates, and content.
 
@@ -27,7 +27,7 @@ git clone https://github.com/KORINZ/nhk-news-scraper.git
 2. Change to the project directory:
 
 ```bash
-cd nhk-news-scraper
+cd nhk-news-scraper-js
 ```
 
 3. Install the required dependencies:
