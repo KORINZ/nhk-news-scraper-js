@@ -30,12 +30,6 @@ git clone https://github.com/KORINZ/nhk-news-scraper.git
 cd nhk-news-scraper-js
 ```
 
-3. Install the required dependencies:
-
-```bash
-npm install
-```
-
 ## Usage
 
 1. Import the functions from the respective JavaScript files into your main script.
